@@ -102,3 +102,15 @@ if __name__ == "__main__":
 
     print("App: Launched with the Concrete Factory MacOS.")
     client_two.dibujar()
+
+
+### --- Output --- ###
+
+#App: Launched with the Concrete Factory Windows.
+#Se ha dibujado un boton en Windows
+#Se ha dibujado un boton en Windows
+
+
+#App: Launched with the Concrete Factory MacOS.
+#Se ha dibujado un boton en MacOS
+#Se ha dibujado un boton en MacOS
